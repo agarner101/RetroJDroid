@@ -21,6 +21,9 @@ public final class ImageApi {
         throw new IllegalAccessError("Class is fully static!");
     }
 
+    /**
+     * Makes API call to get Image.
+     */
     public static void getImage(@NonNull final Callback<ImageData> callback) {
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl(BASE_URL)
