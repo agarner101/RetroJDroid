@@ -1,6 +1,8 @@
 # RetroJDroid
 Retrofit discovery with Android in Java. Featuring Picasso.
 
+This project's Kotlin twin can be found at [RetroKDroid](https://github.com/agarner101/RetroKDroid)
+
 ### Resources
 1. [RetroFit](http://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java
 2. [Picasso](http://square.github.io/picasso/) - A powerful image downloading and caching library for Android
